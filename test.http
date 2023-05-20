@@ -1,0 +1,5 @@
+### Get One Product
+Get https://fakestoreapi.com/products/1 HTTP/1.1
+
+### Get All Product
+Get https://fakestoreapi.com/products?limit=5 HTTP/1.1
