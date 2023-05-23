@@ -4,7 +4,7 @@ import { useParams, useSearchParams } from "react-router-dom";
 const Product = () => {
   const { id } = useParams();
   const [searchParams] = useSearchParams();
-  
+
   return (
     <div>
       <Navbar />

@@ -4,6 +4,7 @@ import About from "./pages/About.jsx";
 import Products from "./pages/Products.jsx";
 import Product from "./pages/Product.jsx";
 
+
 const router = createBrowserRouter([
   {
     path: "/",
